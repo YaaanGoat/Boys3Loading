@@ -25,4 +25,4 @@ At the moment, there is little reason to explore this repository unless you are 
 While contributions are welcome, the main purpose of this repo is just to do string loading for a VRChat world. If you have ideas, suggestions, or improvements, feel free to contact me on X or something idk.
 
 ## License
-Nu uh!
+Nu uh! (See the license [here](./LICENSE))
