@@ -1,3 +1,5 @@
+![README.md](readme.png)
+
 # Boys+3 Club String Loading
 This repository is for a VRChat world to String Load from trusted URL source. Basically just so you don't need to enable untrusted URLs in Settings. >:3
 
